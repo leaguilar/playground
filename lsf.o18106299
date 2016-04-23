@@ -1,0 +1,3071 @@
+Sender: LSF System <lsfadmin@e3279>
+Subject: Job 18106299: <mpirun python plot_data.py> in cluster <euler> Done
+
+Job <mpirun python plot_data.py> was submitted from host <euler02> by user <aleonel> in cluster <euler>.
+Job was executed on host(s) <24*e3279>, in queue <normal.4h>, as user <aleonel> in cluster <euler>.
+                            <24*e3275>
+                            <24*e3277>
+                            <24*e3282>
+                            <24*e3284>
+                            <24*e3281>
+                            <24*e3286>
+                            <24*e3273>
+                            <24*e3283>
+                            <24*e3274>
+                            <24*e3287>
+                            <24*e3278>
+                            <24*e3276>
+                            <24*e3280>
+                            <24*e3288>
+                            <24*e3285>
+                            <24*e3364>
+                            <24*e3362>
+                            <24*e3359>
+                            <24*e3379>
+                            <24*e3374>
+                            <24*e3373>
+                            <24*e3376>
+                            <24*e3381>
+                            <24*e3370>
+                            <24*e3378>
+                            <24*e3380>
+                            <24*e3382>
+                            <24*e3383>
+                            <24*e3375>
+                            <24*e3369>
+                            <24*e3377>
+                            <24*e3372>
+                            <24*e3371>
+                            <24*e3229>
+                            <24*e3228>
+                            <24*e3231>
+                            <24*e3232>
+                            <24*e3227>
+                            <24*e3234>
+                            <24*e3237>
+                            <16*e3225>
+</cluster/home/aleonel> was used as the home directory.
+</cluster/home/aleonel/hp1/playground> was used as the working directory.
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpirun python plot_data.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :               432237.00 sec.
+    Max Memory :             69374 MB
+    Average Memory :         51750.05 MB
+    Total Requested Memory : 1024000.00 MB
+    Delta Memory :           954626.00 MB
+    (Delta: the difference between Total Requested Memory and Max Memory.)
+    Max Processes :          1044
+    Max Threads :            3045
+
+The output (if any) follows:
+
+my rank 237 size 1000
+237 238
+my rank 238 size 1000
+238 239
+my rank 216 size 1000
+216 217
+my rank 217 size 1000
+217 218
+my rank 218 size 1000
+218 219
+my rank 219 size 1000
+219 220
+my rank 220 size 1000
+220 221
+my rank 221 size 1000
+221 222
+my rank 222 size 1000
+222 223
+my rank 224 size 1000
+224 225
+my rank 225 size 1000
+225 226
+my rank 226 size 1000
+226 227
+my rank 227 size 1000
+227 228
+my rank 228 size 1000
+228 229
+my rank 229 size 1000
+229 230
+my rank 230 size 1000
+230 231
+my rank 231 size 1000
+231 232
+my rank 232 size 1000
+232 233
+my rank 233 size 1000
+233 234
+my rank 1 size 1000
+1 2
+my rank 2 size 1000
+2 3
+my rank 3 size 1000
+3 4
+my rank 7 size 1000
+7 8
+my rank 8 size 1000
+8 9
+my rank 9 size 1000
+9 10
+my rank 10 size 1000
+10 11
+my rank 13 size 1000
+13 14
+my rank 14 size 1000
+14 15
+my rank 15 size 1000
+15 16
+my rank 16 size 1000
+16 17
+my rank 18 size 1000
+18 19
+my rank 19 size 1000
+19 20
+my rank 20 size 1000
+20 21
+my rank 21 size 1000
+21 22
+my rank 234 size 1000
+234 235
+my rank 235 size 1000
+235 236
+my rank 236 size 1000
+236 237
+my rank 239 size 1000
+239 240
+my rank 223 size 1000
+223 224
+my rank 5 size 1000
+5 6
+my rank 11 size 1000
+11 12
+my rank 0 size 1000
+0 1
+my rank 4 size 1000
+4 5
+my rank 6 size 1000
+6 7
+my rank 17 size 1000
+17 18
+my rank 22 size 1000
+22 23
+my rank 23 size 1000
+23 24
+OPENING  user_2773.txt 213
+OPENING  user_7043.txt 213
+OPENING  user_4166.txt 213
+OPENING  user_3617.txt 213
+OPENING  user_5844.txt 213
+OPENING  user_1295.txt 213
+OPENING  user_1353.txt 213
+OPENING  user_4771.txt 213
+OPENING  user_6383.txt 213
+OPENING  user_1867.txt 213
+OPENING  user_5225.txt 213
+OPENING  user_6319.txt 213
+OPENING  user_4705.txt 213
+OPENING  user_3878.txt 213
+OPENING  user_5839.txt 213
+OPENING  user_6765.txt 213
+OPENING  user_5817.txt 213
+OPENING  user_4072.txt 213
+OPENING  user_7125.txt 213
+OPENING  user_6994.txt 213
+OPENING  user_3593.txt 213
+OPENING  user_5239.txt 213
+OPENING  user_5233.txt 213
+OPENING  user_6975.txt 213
+OPENING  user_1915.txt 213
+my rank 12 size 1000
+12 13
+OPENING  user_3172.txt 213
+OPENING  user_6903.txt 213
+OPENING  user_4459.txt 213
+OPENING  user_1521.txt 213
+OPENING  user_2241.txt 213
+OPENING  user_1854.txt 213
+OPENING  user_1383.txt 213
+OPENING  user_1968.txt 213
+OPENING  user_2957.txt 213
+OPENING  user_4787.txt 213
+OPENING  user_7059.txt 213
+OPENING  user_4867.txt 213
+OPENING  user_2730.txt 213
+OPENING  user_2809.txt 213
+OPENING  user_2477.txt 213
+OPENING  user_7374.txt 213
+OPENING  user_6624.txt 213
+OPENING  user_5217.txt 213
+OPENING  user_5189.txt 213
+OPENING  user_2494.txt 213
+OPENING  user_4399.txt 213
+OPENING  user_1760.txt 213
+OPENING  user_5066.txt 213
+my rank 104 size 1000
+104 105
+my rank 105 size 1000
+105 106
+my rank 107 size 1000
+107 108
+my rank 108 size 1000
+108 109
+my rank 109 size 1000
+109 110
+my rank 110 size 1000
+110 111
+my rank 111 size 1000
+111 112
+my rank 112 size 1000
+112 113
+my rank 113 size 1000
+113 114
+my rank 114 size 1000
+114 115
+my rank 116 size 1000
+116 117
+my rank 117 size 1000
+117 118
+my rank 118 size 1000
+118 119
+my rank 96 size 1000
+96 97
+my rank 98 size 1000
+98 99
+my rank 99 size 1000
+99 100
+my rank 100 size 1000
+100 101
+my rank 101 size 1000
+101 102
+my rank 102 size 1000
+102 103
+my rank 103 size 1000
+103 104
+my rank 115 size 1000
+115 116
+my rank 97 size 1000
+97 98
+my rank 663 size 1000
+663 664
+my rank 664 size 1000
+664 665
+my rank 665 size 1000
+665 666
+my rank 666 size 1000
+666 667
+my rank 667 size 1000
+667 668
+my rank 668 size 1000
+668 669
+my rank 648 size 1000
+648 649
+my rank 649 size 1000
+649 650
+my rank 651 size 1000
+651 652
+my rank 653 size 1000
+653 654
+my rank 655 size 1000
+655 656
+my rank 656 size 1000
+656 657
+my rank 657 size 1000
+657 658
+my rank 658 size 1000
+658 659
+my rank 659 size 1000
+659 660
+my rank 660 size 1000
+660 661
+my rank 661 size 1000
+661 662
+my rank 662 size 1000
+662 663
+OPENING  user_1461.txt 213
+OPENING  user_3365.txt 213
+my rank 119 size 1000
+119 120
+OPENING  user_3983.txt 213
+OPENING  user_6882.txt 213
+OPENING  user_5335.txt 213
+my rank 106 size 1000
+106 107
+OPENING  user_4137.txt 213
+OPENING  user_4030.txt 213
+OPENING  user_2231.txt 213
+OPENING  user_3279.txt 213
+OPENING  user_3385.txt 213
+OPENING  user_5950.txt 213
+OPENING  user_7368.txt 213
+my rank 669 size 1000
+669 670
+my rank 671 size 1000
+671 672
+my rank 650 size 1000
+650 651
+my rank 654 size 1000
+654 655
+OPENING  user_6128.txt 213
+OPENING  user_3793.txt 213
+OPENING  user_5500.txt 213
+OPENING  user_2240.txt 213
+OPENING  user_5613.txt 213
+OPENING  user_1441.txt 213
+OPENING  user_3831.txt 213
+OPENING  user_5286.txt 213
+OPENING  user_2042.txt 213
+OPENING  user_6368.txt 213
+OPENING  user_5591.txt 213
+OPENING  user_4810.txt 213
+OPENING  user_5556.txt 213
+OPENING  user_2892.txt 213
+OPENING  user_5348.txt 213
+my rank 670 size 1000
+670 671
+OPENING  user_1081.txt 213
+OPENING  user_4464.txt 213
+my rank 652 size 1000
+652 653
+OPENING  user_5790.txt 213
+OPENING  user_3753.txt 213
+OPENING  user_1403.txt 213
+OPENING  user_2970.txt 213
+OPENING  user_5345.txt 213
+OPENING  user_5362.txt 213
+OPENING  user_4054.txt 213
+OPENING  user_2786.txt 213
+OPENING  user_6362.txt 213
+OPENING  user_2806.txt 213
+OPENING  user_6324.txt 213
+OPENING  user_6513.txt 213
+OPENING  user_3238.txt 213
+OPENING  user_4423.txt 213
+OPENING  user_5938.txt 213
+OPENING  user_6489.txt 213
+OPENING  user_4433.txt 213
+OPENING  user_4317.txt 213
+OPENING  user_6198.txt 213
+my rank 312 size 1000
+312 313
+my rank 313 size 1000
+313 314
+my rank 314 size 1000
+314 315
+my rank 315 size 1000
+315 316
+my rank 316 size 1000
+316 317
+my rank 317 size 1000
+317 318
+my rank 318 size 1000
+318 319
+my rank 319 size 1000
+319 320
+my rank 320 size 1000
+320 321
+my rank 321 size 1000
+321 322
+my rank 322 size 1000
+322 323
+my rank 323 size 1000
+323 324
+my rank 324 size 1000
+324 325
+my rank 325 size 1000
+325 326
+my rank 326 size 1000
+326 327
+my rank 327 size 1000
+327 328
+my rank 328 size 1000
+328 329
+my rank 329 size 1000
+329 330
+my rank 330 size 1000
+330 331
+my rank 331 size 1000
+331 332
+my rank 332 size 1000
+332 333
+my rank 333 size 1000
+333 334
+my rank 334 size 1000
+334 335
+my rank 335 size 1000
+335 336
+my rank 432 size 1000
+432 433
+my rank 433 size 1000
+433 434
+my rank 434 size 1000
+434 435
+my rank 435 size 1000
+435 436
+my rank 436 size 1000
+436 437
+my rank 437 size 1000
+437 438
+my rank 438 size 1000
+438 439
+my rank 439 size 1000
+439 440
+my rank 440 size 1000
+440 441
+my rank 441 size 1000
+441 442
+my rank 442 size 1000
+442 443
+my rank 443 size 1000
+443 444
+my rank 444 size 1000
+444 445
+my rank 445 size 1000
+445 446
+my rank 446 size 1000
+446 447
+my rank 447 size 1000
+447 448
+my rank 448 size 1000
+448 449
+my rank 449 size 1000
+449 450
+my rank 450 size 1000
+450 451
+my rank 451 size 1000
+451 452
+my rank 452 size 1000
+452 453
+my rank 453 size 1000
+453 454
+my rank 454 size 1000
+454 455
+my rank 455 size 1000
+455 456
+OPENING  user_3681.txt 213
+OPENING  user_4216.txt 213
+OPENING  user_2729.txt 213
+OPENING  user_6032.txt 213
+OPENING  user_6551.txt 213
+OPENING  user_2473.txt 213
+OPENING  user_7379.txt 213
+OPENING  user_3392.txt 213
+OPENING  user_2867.txt 213
+OPENING  user_2616.txt 213
+OPENING  user_1610.txt 213
+OPENING  user_4591.txt 213
+OPENING  user_4369.txt 213
+OPENING  user_7038.txt 213
+OPENING  user_5836.txt 213
+OPENING  user_6516.txt 213
+OPENING  user_5771.txt 213
+OPENING  user_3659.txt 213
+OPENING  user_1694.txt 213
+OPENING  user_2153.txt 213
+OPENING  user_2900.txt 213
+OPENING  user_2407.txt 213
+OPENING  user_6824.txt 213
+OPENING  user_3309.txt 213
+OPENING  user_4117.txt 213
+OPENING  user_2971.txt 213
+OPENING  user_1142.txt 213
+OPENING  user_7324.txt 213
+OPENING  user_3920.txt 213
+OPENING  user_1160.txt 213
+OPENING  user_6578.txt 213
+OPENING  user_6552.txt 213
+OPENING  user_6786.txt 213
+OPENING  user_4811.txt 213
+OPENING  user_3874.txt 213
+OPENING  user_1640.txt 213
+OPENING  user_2337.txt 213
+OPENING  user_6557.txt 213
+OPENING  user_6889.txt 213
+OPENING  user_5111.txt 213
+OPENING  user_2103.txt 213
+OPENING  user_4578.txt 213
+OPENING  user_4392.txt 213
+OPENING  user_4856.txt 213
+OPENING  user_7267.txt 213
+OPENING  user_5106.txt 213
+OPENING  user_4561.txt 213
+OPENING  user_3421.txt 213
+my rank 528 size 1000
+528 529
+my rank 529 size 1000
+529 530
+my rank 530 size 1000
+530 531
+my rank 531 size 1000
+531 532
+my rank 532 size 1000
+532 533
+my rank 533 size 1000
+533 534
+my rank 534 size 1000
+534 535
+my rank 535 size 1000
+535 536
+my rank 536 size 1000
+536 537
+my rank 537 size 1000
+537 538
+my rank 538 size 1000
+538 539
+my rank 539 size 1000
+539 540
+my rank 540 size 1000
+540 541
+my rank 541 size 1000
+541 542
+my rank 542 size 1000
+542 543
+my rank 543 size 1000
+543 544
+my rank 544 size 1000
+544 545
+my rank 545 size 1000
+545 546
+my rank 546 size 1000
+546 547
+my rank 547 size 1000
+547 548
+my rank 548 size 1000
+548 549
+my rank 549 size 1000
+549 550
+my rank 550 size 1000
+550 551
+my rank 551 size 1000
+551 552
+OPENING  user_1943.txt 213
+OPENING  user_6340.txt 213
+OPENING  user_4642.txt 213
+OPENING  user_4109.txt 213
+OPENING  user_3751.txt 213
+OPENING  user_2910.txt 213
+OPENING  user_4198.txt 213
+OPENING  user_7409.txt 213
+OPENING  user_2476.txt 213
+OPENING  user_2193.txt 213
+OPENING  user_5912.txt 213
+OPENING  user_1350.txt 213
+OPENING  user_7432.txt 213
+OPENING  user_1262.txt 213
+OPENING  user_7252.txt 213
+OPENING  user_4161.txt 213
+OPENING  user_5056.txt 213
+OPENING  user_3960.txt 213
+OPENING  user_3168.txt 213
+OPENING  user_2102.txt 213
+OPENING  user_2791.txt 213
+OPENING  user_6506.txt 213
+OPENING  user_5997.txt 213
+OPENING  user_4382.txt 213
+my rank 286 size 1000
+286 287
+my rank 287 size 1000
+287 288
+my rank 264 size 1000
+264 265
+my rank 265 size 1000
+265 266
+my rank 266 size 1000
+266 267
+my rank 267 size 1000
+267 268
+my rank 268 size 1000
+268 269
+my rank 269 size 1000
+269 270
+my rank 270 size 1000
+270 271
+my rank 271 size 1000
+271 272
+my rank 272 size 1000
+272 273
+my rank 273 size 1000
+273 274
+my rank 274 size 1000
+274 275
+my rank 275 size 1000
+275 276
+my rank 276 size 1000
+276 277
+my rank 277 size 1000
+277 278
+my rank 278 size 1000
+278 279
+my rank 279 size 1000
+279 280
+my rank 280 size 1000
+280 281
+my rank 281 size 1000
+281 282
+my rank 282 size 1000
+282 283
+my rank 283 size 1000
+283 284
+my rank 284 size 1000
+284 285
+my rank 285 size 1000
+285 286
+OPENING  user_1278.txt 213
+OPENING  user_1969.txt 213
+OPENING  user_4768.txt 213
+OPENING  user_3941.txt 213
+OPENING  user_6874.txt 213
+OPENING  user_2351.txt 213
+OPENING  user_5029.txt 213
+OPENING  user_5458.txt 213
+OPENING  user_3801.txt 213
+OPENING  user_4059.txt 213
+OPENING  user_5932.txt 213
+OPENING  user_6922.txt 213
+OPENING  user_1740.txt 213
+OPENING  user_2807.txt 213
+OPENING  user_1438.txt 213
+OPENING  user_7065.txt 213
+OPENING  user_5968.txt 213
+OPENING  user_3305.txt 213
+OPENING  user_5287.txt 213
+OPENING  user_2960.txt 213
+OPENING  user_4915.txt 213
+OPENING  user_4903.txt 213
+OPENING  user_4940.txt 213
+OPENING  user_3717.txt 213
+my rank 185 size 1000
+185 186
+my rank 186 size 1000
+186 187
+my rank 187 size 1000
+187 188
+my rank 188 size 1000
+188 189
+my rank 189 size 1000
+189 190
+my rank 190 size 1000
+190 191
+my rank 191 size 1000
+191 192
+my rank 168 size 1000
+168 169
+my rank 169 size 1000
+169 170
+my rank 170 size 1000
+170 171
+my rank 171 size 1000
+171 172
+my rank 172 size 1000
+172 173
+my rank 173 size 1000
+173 174
+my rank 174 size 1000
+174 175
+my rank 175 size 1000
+175 176
+my rank 176 size 1000
+176 177
+my rank 177 size 1000
+177 178
+my rank 178 size 1000
+178 179
+my rank 179 size 1000
+179 180
+my rank 180 size 1000
+180 181
+my rank 181 size 1000
+181 182
+my rank 182 size 1000
+182 183
+my rank 183 size 1000
+183 184
+my rank 184 size 1000
+184 185
+OPENING  user_5267.txt 213
+OPENING  user_7024.txt 213
+OPENING  user_3211.txt 213
+OPENING  user_2758.txt 213
+OPENING  user_4774.txt 213
+OPENING  user_6165.txt 213
+OPENING  user_3041.txt 213
+OPENING  user_5762.txt 213
+OPENING  user_3827.txt 213
+OPENING  user_5437.txt 213
+OPENING  user_5609.txt 213
+OPENING  user_4933.txt 213
+OPENING  user_1427.txt 213
+OPENING  user_6977.txt 213
+OPENING  user_3548.txt 213
+OPENING  user_4326.txt 213
+OPENING  user_4674.txt 213
+OPENING  user_7219.txt 213
+OPENING  user_6215.txt 213
+OPENING  user_2378.txt 213
+OPENING  user_6212.txt 213
+OPENING  user_6528.txt 213
+OPENING  user_2403.txt 213
+OPENING  user_2014.txt 213
+my rank 510 size 1000
+510 511
+my rank 511 size 1000
+511 512
+my rank 512 size 1000
+512 513
+my rank 514 size 1000
+514 515
+my rank 515 size 1000
+515 516
+my rank 516 size 1000
+516 517
+my rank 517 size 1000
+517 518
+my rank 519 size 1000
+519 520
+my rank 521 size 1000
+521 522
+my rank 522 size 1000
+522 523
+my rank 523 size 1000
+523 524
+my rank 524 size 1000
+524 525
+my rank 525 size 1000
+525 526
+my rank 505 size 1000
+505 506
+my rank 506 size 1000
+506 507
+my rank 507 size 1000
+507 508
+my rank 508 size 1000
+508 509
+my rank 509 size 1000
+509 510
+my rank 526 size 1000
+526 527
+my rank 527 size 1000
+527 528
+my rank 513 size 1000
+513 514
+OPENING  user_7261.txt 213
+OPENING  user_2071.txt 213
+OPENING  user_7313.txt 213
+OPENING  user_5340.txt 213
+OPENING  user_1605.txt 213
+OPENING  user_1283.txt 213
+OPENING  user_4617.txt 213
+OPENING  user_2345.txt 213
+OPENING  user_3055.txt 213
+OPENING  user_5513.txt 213
+my rank 518 size 1000
+518 519
+OPENING  user_1728.txt 213
+OPENING  user_4993.txt 213
+OPENING  user_2347.txt 213
+OPENING  user_6992.txt 213
+OPENING  user_1015.txt 213
+OPENING  user_4623.txt 213
+OPENING  user_3936.txt 213
+OPENING  user_2374.txt 213
+my rank 504 size 1000
+504 505
+OPENING  user_4937.txt 213
+my rank 520 size 1000
+520 521
+OPENING  user_6427.txt 213
+OPENING  user_3879.txt 213
+OPENING  user_4259.txt 213
+OPENING  user_3781.txt 213
+OPENING  user_2858.txt 213
+my rank 500 size 1000
+500 501
+my rank 501 size 1000
+501 502
+my rank 502 size 1000
+502 503
+my rank 482 size 1000
+482 483
+my rank 483 size 1000
+483 484
+my rank 486 size 1000
+486 487
+my rank 488 size 1000
+488 489
+my rank 489 size 1000
+489 490
+my rank 490 size 1000
+490 491
+my rank 491 size 1000
+491 492
+my rank 492 size 1000
+492 493
+my rank 493 size 1000
+493 494
+my rank 494 size 1000
+494 495
+my rank 495 size 1000
+495 496
+my rank 496 size 1000
+496 497
+my rank 498 size 1000
+498 499
+my rank 497 size 1000
+497 498
+my rank 503 size 1000
+503 504
+OPENING  user_1447.txt 213
+OPENING  user_2074.txt 213
+OPENING  user_7031.txt 213
+OPENING  user_7425.txt 213
+OPENING  user_3691.txt 213
+OPENING  user_5317.txt 213
+OPENING  user_5730.txt 213
+OPENING  user_2280.txt 213
+OPENING  user_5953.txt 213
+OPENING  user_4288.txt 213
+OPENING  user_5263.txt 213
+my rank 480 size 1000
+480 481
+OPENING  user_3121.txt 213
+OPENING  user_4970.txt 213
+OPENING  user_4562.txt 213
+OPENING  user_5014.txt 213
+OPENING  user_5275.txt 213
+OPENING  user_2799.txt 213
+OPENING  user_6219.txt 213
+my rank 499 size 1000
+499 500
+my rank 484 size 1000
+484 485
+my rank 481 size 1000
+481 482
+my rank 485 size 1000
+485 486
+OPENING  user_1682.txt 213
+OPENING  user_5482.txt 213
+my rank 487 size 1000
+487 488
+OPENING  user_2825.txt 213
+OPENING  user_3132.txt 213
+OPENING  user_5739.txt 213
+OPENING  user_2385.txt 213
+my rank 906 size 1000
+906 907
+my rank 907 size 1000
+907 908
+my rank 908 size 1000
+908 909
+my rank 909 size 1000
+909 910
+my rank 910 size 1000
+910 911
+my rank 911 size 1000
+911 912
+my rank 888 size 1000
+888 889
+my rank 891 size 1000
+891 892
+my rank 892 size 1000
+892 893
+my rank 893 size 1000
+893 894
+my rank 895 size 1000
+895 896
+my rank 896 size 1000
+896 897
+my rank 898 size 1000
+898 899
+my rank 899 size 1000
+899 900
+my rank 900 size 1000
+900 901
+my rank 902 size 1000
+902 903
+my rank 903 size 1000
+903 904
+my rank 897 size 1000
+897 898
+OPENING  user_2195.txt 213
+OPENING  user_4817.txt 213
+OPENING  user_6720.txt 213
+my rank 889 size 1000
+889 890
+OPENING  user_5116.txt 213
+OPENING  user_1762.txt 213
+OPENING  user_2196.txt 213
+OPENING  user_4545.txt 213
+OPENING  user_4181.txt 213
+OPENING  user_5674.txt 213
+OPENING  user_7016.txt 213
+OPENING  user_2746.txt 213
+my rank 904 size 1000
+904 905
+my rank 905 size 1000
+905 906
+OPENING  user_4366.txt 213
+OPENING  user_3601.txt 213
+OPENING  user_5313.txt 213
+OPENING  user_2033.txt 213
+my rank 890 size 1000
+890 891
+OPENING  user_6239.txt 213
+OPENING  user_3885.txt 213
+my rank 894 size 1000
+894 895
+OPENING  user_2205.txt 213
+OPENING  user_5971.txt 213
+OPENING  user_6667.txt 213
+my rank 901 size 1000
+901 902
+OPENING  user_1460.txt 213
+OPENING  user_1717.txt 213
+OPENING  user_4187.txt 213
+OPENING  user_5493.txt 213
+my rank 298 size 1000
+298 299
+my rank 299 size 1000
+299 300
+my rank 300 size 1000
+300 301
+my rank 301 size 1000
+301 302
+my rank 302 size 1000
+302 303
+my rank 303 size 1000
+303 304
+my rank 306 size 1000
+306 307
+my rank 307 size 1000
+307 308
+my rank 308 size 1000
+308 309
+my rank 310 size 1000
+310 311
+my rank 290 size 1000
+290 291
+my rank 291 size 1000
+291 292
+my rank 293 size 1000
+293 294
+my rank 294 size 1000
+294 295
+my rank 295 size 1000
+295 296
+OPENING  user_5456.txt 213
+my rank 292 size 1000
+292 293
+my rank 304 size 1000
+304 305
+OPENING  user_2467.txt 213
+OPENING  user_3313.txt 213
+my rank 311 size 1000
+311 312
+OPENING  user_1663.txt 213
+my rank 297 size 1000
+297 298
+OPENING  user_3529.txt 213
+OPENING  user_7131.txt 213
+OPENING  user_5105.txt 213
+OPENING  user_7206.txt 213
+OPENING  user_1905.txt 213
+OPENING  user_4294.txt 213
+OPENING  user_6327.txt 213
+my rank 296 size 1000
+296 297
+OPENING  user_6767.txt 213
+OPENING  user_2127.txt 213
+OPENING  user_4862.txt 213
+OPENING  user_6921.txt 213
+my rank 309 size 1000
+309 310
+my rank 288 size 1000
+288 289
+my rank 289 size 1000
+289 290
+OPENING  user_1074.txt 213
+OPENING  user_5699.txt 213
+OPENING  user_3654.txt 213
+OPENING  user_1395.txt 213
+OPENING  user_3138.txt 213
+my rank 305 size 1000
+305 306
+OPENING  user_7095.txt 213
+OPENING  user_4850.txt 213
+OPENING  user_3817.txt 213
+OPENING  user_2790.txt 213
+my rank 774 size 1000
+774 775
+my rank 775 size 1000
+775 776
+my rank 776 size 1000
+776 777
+my rank 777 size 1000
+777 778
+my rank 778 size 1000
+778 779
+my rank 779 size 1000
+779 780
+my rank 782 size 1000
+782 783
+my rank 785 size 1000
+785 786
+my rank 786 size 1000
+786 787
+my rank 787 size 1000
+787 788
+my rank 789 size 1000
+789 790
+my rank 790 size 1000
+790 791
+my rank 768 size 1000
+768 769
+my rank 769 size 1000
+769 770
+my rank 770 size 1000
+770 771
+my rank 772 size 1000
+772 773
+my rank 788 size 1000
+788 789
+OPENING  user_6936.txt 213
+OPENING  user_1296.txt 213
+my rank 783 size 1000
+783 784
+OPENING  user_3604.txt 213
+OPENING  user_4183.txt 213
+OPENING  user_2870.txt 213
+OPENING  user_2506.txt 213
+OPENING  user_1845.txt 213
+OPENING  user_6558.txt 213
+OPENING  user_3787.txt 213
+OPENING  user_6877.txt 213
+OPENING  user_4942.txt 213
+OPENING  user_5127.txt 213
+OPENING  user_1305.txt 213
+OPENING  user_4814.txt 213
+OPENING  user_1258.txt 213
+OPENING  user_5673.txt 213
+OPENING  user_1332.txt 213
+my rank 784 size 1000
+784 785
+my rank 780 size 1000
+780 781
+OPENING  user_6685.txt 213
+my rank 771 size 1000
+771 772
+OPENING  user_1297.txt 213
+my rank 791 size 1000
+791 792
+my rank 773 size 1000
+773 774
+my rank 781 size 1000
+781 782
+OPENING  user_6931.txt 213
+OPENING  user_6777.txt 213
+OPENING  user_6468.txt 213
+OPENING  user_5447.txt 213
+OPENING  user_5570.txt 213
+my rank 961 size 1000
+961 962
+my rank 963 size 1000
+963 964
+my rank 965 size 1000
+965 966
+my rank 969 size 1000
+969 970
+my rank 972 size 1000
+972 973
+OPENING  user_4415.txt 213
+OPENING  user_3031.txt 213
+my rank 974 size 1000
+974 975
+OPENING  user_7434.txt 213
+OPENING  user_3972.txt 213
+OPENING  user_5587.txt 213
+OPENING  user_2969.txt 213
+my rank 976 size 1000
+976 977
+OPENING  user_5063.txt 213
+my rank 960 size 1000
+960 961
+my rank 967 size 1000
+967 968
+my rank 964 size 1000
+964 965
+OPENING  user_1189.txt 213
+my rank 970 size 1000
+970 971
+OPENING  user_6910.txt 213
+OPENING  user_5183.txt 213
+my rank 979 size 1000
+979 980
+OPENING  user_5203.txt 213
+my rank 980 size 1000
+980 981
+OPENING  user_6117.txt 213
+my rank 977 size 1000
+977 978
+my rank 978 size 1000
+978 979
+OPENING  user_6104.txt 213
+my rank 983 size 1000
+983 984
+OPENING  user_3333.txt 213
+my rank 975 size 1000
+975 976
+OPENING  user_4026.txt 213
+OPENING  user_5410.txt 213
+my rank 968 size 1000
+968 969
+my rank 971 size 1000
+971 972
+my rank 966 size 1000
+966 967
+OPENING  user_3104.txt 213
+my rank 962 size 1000
+962 963
+my rank 973 size 1000
+973 974
+OPENING  user_3908.txt 213
+my rank 981 size 1000
+981 982
+my rank 982 size 1000
+982 983
+OPENING  user_2019.txt 213
+OPENING  user_1876.txt 213
+OPENING  user_4443.txt 213
+OPENING  user_1037.txt 213
+OPENING  user_7394.txt 213
+OPENING  user_2291.txt 213
+my rank 48 size 1000
+48 49
+my rank 55 size 1000
+55 56
+my rank 56 size 1000
+56 57
+my rank 63 size 1000
+63 64
+my rank 66 size 1000
+66 67
+OPENING  user_2386.txt 213
+OPENING  user_1719.txt 213
+OPENING  user_6696.txt 213
+OPENING  user_2513.txt 213
+OPENING  user_2929.txt 213
+my rank 69 size 1000
+69 70
+OPENING  user_6797.txt 213
+my rank 64 size 1000
+64 65
+OPENING  user_4691.txt 213
+my rank 53 size 1000
+53 54
+OPENING  user_3778.txt 213
+my rank 67 size 1000
+67 68
+OPENING  user_7179.txt 213
+my rank 59 size 1000
+59 60
+my rank 65 size 1000
+65 66
+OPENING  user_6978.txt 213
+my rank 61 size 1000
+61 62
+OPENING  user_6021.txt 213
+my rank 54 size 1000
+54 55
+OPENING  user_5296.txt 213
+my rank 62 size 1000
+62 63
+OPENING  user_7048.txt 213
+my rank 58 size 1000
+58 59
+OPENING  user_3982.txt 213
+my rank 747 size 1000
+747 748
+my rank 751 size 1000
+751 752
+my rank 753 size 1000
+753 754
+OPENING  user_5925.txt 213
+OPENING  user_2056.txt 213
+OPENING  user_2018.txt 213
+OPENING  user_1021.txt 213
+my rank 60 size 1000
+60 61
+my rank 758 size 1000
+758 759
+my rank 71 size 1000
+71 72
+OPENING  user_6477.txt 213
+my rank 52 size 1000
+52 53
+my rank 759 size 1000
+759 760
+OPENING  user_4876.txt 213
+my rank 254 size 1000
+254 255
+my rank 259 size 1000
+259 260
+my rank 757 size 1000
+757 758
+OPENING  user_7408.txt 213
+OPENING  user_1402.txt 213
+my rank 68 size 1000
+68 69
+OPENING  user_1818.txt 213
+OPENING  user_3394.txt 213
+my rank 255 size 1000
+255 256
+OPENING  user_1917.txt 213
+my rank 253 size 1000
+253 254
+OPENING  user_3289.txt 213
+my rank 756 size 1000
+756 757
+OPENING  user_5211.txt 213
+OPENING  user_2582.txt 213
+my rank 51 size 1000
+51 52
+my rank 256 size 1000
+256 257
+OPENING  user_1549.txt 213
+OPENING  user_1330.txt 213
+my rank 57 size 1000
+57 58
+OPENING  user_3887.txt 213
+my rank 762 size 1000
+762 763
+OPENING  user_5549.txt 213
+OPENING  user_6848.txt 213
+my rank 49 size 1000
+49 50
+my rank 766 size 1000
+766 767
+OPENING  user_3378.txt 213
+my rank 70 size 1000
+70 71
+OPENING  user_4849.txt 213
+my rank 50 size 1000
+50 51
+OPENING  user_2053.txt 213
+my rank 252 size 1000
+252 253
+OPENING  user_3880.txt 213
+my rank 263 size 1000
+263 264
+OPENING  user_1508.txt 213
+my rank 767 size 1000
+767 768
+OPENING  user_2637.txt 213
+OPENING  user_6854.txt 213
+OPENING  user_4019.txt 213
+my rank 754 size 1000
+754 755
+my rank 241 size 1000
+241 242
+OPENING  user_1246.txt 213
+my rank 764 size 1000
+764 765
+OPENING  user_6899.txt 213
+my rank 744 size 1000
+744 745
+OPENING  user_4159.txt 213
+my rank 242 size 1000
+242 243
+OPENING  user_1837.txt 213
+my rank 760 size 1000
+760 761
+OPENING  user_6070.txt 213
+my rank 260 size 1000
+260 261
+my rank 250 size 1000
+250 251
+OPENING  user_6902.txt 213
+my rank 752 size 1000
+752 753
+OPENING  user_2422.txt 213
+OPENING  user_7352.txt 213
+my rank 257 size 1000
+257 258
+OPENING  user_4656.txt 213
+my rank 745 size 1000
+745 746
+OPENING  user_3998.txt 213
+my rank 749 size 1000
+749 750
+OPENING  user_6038.txt 213
+my rank 245 size 1000
+245 246
+my rank 750 size 1000
+750 751
+OPENING  user_4701.txt 213
+OPENING  user_5870.txt 213
+my rank 240 size 1000
+240 241
+my rank 746 size 1000
+746 747
+OPENING  user_1336.txt 213
+my rank 262 size 1000
+262 263
+OPENING  user_4610.txt 213
+my rank 748 size 1000
+748 749
+OPENING  user_1962.txt 213
+OPENING  user_5434.txt 213
+my rank 755 size 1000
+755 756
+my rank 763 size 1000
+763 764
+my rank 244 size 1000
+244 245
+my rank 248 size 1000
+248 249
+OPENING  user_4678.txt 213
+OPENING  user_7132.txt 213
+my rank 761 size 1000
+761 762
+OPENING  user_5465.txt 213
+my rank 765 size 1000
+765 766
+OPENING  user_2645.txt 213
+my rank 246 size 1000
+246 247
+OPENING  user_2359.txt 213
+OPENING  user_6532.txt 213
+my rank 243 size 1000
+243 244
+OPENING  user_5361.txt 213
+my rank 261 size 1000
+261 262
+OPENING  user_5866.txt 213
+OPENING  user_2394.txt 213
+my rank 247 size 1000
+247 248
+OPENING  user_6868.txt 213
+OPENING  user_4657.txt 213
+my rank 258 size 1000
+258 259
+my rank 249 size 1000
+249 250
+OPENING  user_4217.txt 213
+OPENING  user_6831.txt 213
+my rank 251 size 1000
+251 252
+OPENING  user_1125.txt 213
+my rank 990 size 1000
+990 991
+my rank 993 size 1000
+993 994
+my rank 984 size 1000
+984 985
+my rank 985 size 1000
+985 986
+my rank 995 size 1000
+995 996
+my rank 997 size 1000
+997 998
+my rank 986 size 1000
+986 987
+my rank 987 size 1000
+987 988
+my rank 988 size 1000
+988 989
+my rank 989 size 1000
+989 990
+my rank 992 size 1000
+992 993
+my rank 994 size 1000
+994 995
+OPENING  user_7421.txt 213
+OPENING  user_6336.txt 213
+my rank 991 size 1000
+991 992
+my rank 998 size 1000
+998 999
+OPENING  user_7396.txt 213
+my rank 996 size 1000
+996 997
+OPENING  user_2911.txt 213
+OPENING  user_7281.txt 213
+OPENING  user_6392.txt 213
+OPENING  user_4773.txt 213
+OPENING  user_5219.txt 213
+OPENING  user_6941.txt 213
+OPENING  user_3281.txt 213
+my rank 999 size 1000
+999 1000
+OPENING  user_7201.txt 213
+OPENING  user_5999.txt 213
+OPENING  user_5490.txt 213
+OPENING  user_4188.txt 213
+OPENING  user_1642.txt 213
+OPENING  user_5415.txt 213
+my rank 693 size 1000
+693 694
+my rank 694 size 1000
+694 695
+my rank 695 size 1000
+695 696
+my rank 672 size 1000
+672 673
+my rank 673 size 1000
+673 674
+my rank 674 size 1000
+674 675
+my rank 675 size 1000
+675 676
+my rank 676 size 1000
+676 677
+my rank 677 size 1000
+677 678
+my rank 678 size 1000
+678 679
+my rank 679 size 1000
+679 680
+my rank 680 size 1000
+680 681
+my rank 681 size 1000
+681 682
+my rank 682 size 1000
+682 683
+my rank 683 size 1000
+683 684
+my rank 684 size 1000
+684 685
+my rank 685 size 1000
+685 686
+my rank 686 size 1000
+686 687
+my rank 687 size 1000
+687 688
+my rank 688 size 1000
+688 689
+my rank 689 size 1000
+689 690
+my rank 690 size 1000
+690 691
+my rank 691 size 1000
+691 692
+my rank 692 size 1000
+692 693
+OPENING  user_1335.txt 213
+OPENING  user_6752.txt 213
+OPENING  user_5949.txt 213
+OPENING  user_4027.txt 213
+OPENING  user_5701.txt 213
+OPENING  user_6110.txt 213
+OPENING  user_6344.txt 213
+OPENING  user_5293.txt 213
+OPENING  user_6841.txt 213
+OPENING  user_3464.txt 213
+OPENING  user_5503.txt 213
+OPENING  user_3698.txt 213
+OPENING  user_6920.txt 213
+OPENING  user_3910.txt 213
+OPENING  user_4780.txt 213
+OPENING  user_6123.txt 213
+OPENING  user_4472.txt 213
+OPENING  user_1533.txt 213
+OPENING  user_5223.txt 213
+OPENING  user_6687.txt 213
+OPENING  user_5560.txt 213
+OPENING  user_2144.txt 213
+OPENING  user_5506.txt 213
+OPENING  user_2994.txt 213
+my rank 356 size 1000
+356 357
+my rank 357 size 1000
+357 358
+my rank 358 size 1000
+358 359
+my rank 359 size 1000
+359 360
+my rank 336 size 1000
+336 337
+my rank 337 size 1000
+337 338
+my rank 338 size 1000
+338 339
+my rank 339 size 1000
+339 340
+my rank 340 size 1000
+340 341
+my rank 341 size 1000
+341 342
+my rank 342 size 1000
+342 343
+my rank 343 size 1000
+343 344
+my rank 344 size 1000
+344 345
+my rank 345 size 1000
+345 346
+my rank 346 size 1000
+346 347
+my rank 347 size 1000
+347 348
+my rank 348 size 1000
+348 349
+my rank 349 size 1000
+349 350
+my rank 350 size 1000
+350 351
+my rank 351 size 1000
+351 352
+my rank 352 size 1000
+352 353
+my rank 353 size 1000
+353 354
+my rank 354 size 1000
+354 355
+my rank 355 size 1000
+355 356
+OPENING  user_2285.txt 213
+OPENING  user_3533.txt 213
+OPENING  user_4530.txt 213
+OPENING  user_2607.txt 213
+OPENING  user_6298.txt 213
+OPENING  user_4136.txt 213
+OPENING  user_1753.txt 213
+OPENING  user_3598.txt 213
+OPENING  user_2846.txt 213
+OPENING  user_5126.txt 213
+OPENING  user_3709.txt 213
+OPENING  user_3950.txt 213
+OPENING  user_6608.txt 213
+OPENING  user_5026.txt 213
+OPENING  user_4403.txt 213
+OPENING  user_6259.txt 213
+OPENING  user_5883.txt 213
+OPENING  user_2070.txt 213
+OPENING  user_2005.txt 213
+OPENING  user_2086.txt 213
+OPENING  user_7042.txt 213
+OPENING  user_1754.txt 213
+OPENING  user_4226.txt 213
+OPENING  user_2117.txt 213
+my rank 837 size 1000
+837 838
+my rank 838 size 1000
+838 839
+my rank 839 size 1000
+839 840
+my rank 816 size 1000
+816 817
+my rank 817 size 1000
+817 818
+my rank 818 size 1000
+818 819
+my rank 819 size 1000
+819 820
+my rank 820 size 1000
+820 821
+my rank 821 size 1000
+821 822
+my rank 822 size 1000
+822 823
+my rank 823 size 1000
+823 824
+my rank 824 size 1000
+824 825
+my rank 825 size 1000
+825 826
+my rank 826 size 1000
+826 827
+my rank 827 size 1000
+827 828
+my rank 828 size 1000
+828 829
+my rank 829 size 1000
+829 830
+my rank 830 size 1000
+830 831
+my rank 831 size 1000
+831 832
+my rank 832 size 1000
+832 833
+my rank 833 size 1000
+833 834
+my rank 834 size 1000
+834 835
+my rank 835 size 1000
+835 836
+my rank 836 size 1000
+836 837
+OPENING  user_4236.txt 213
+OPENING  user_4340.txt 213
+OPENING  user_4797.txt 213
+OPENING  user_3891.txt 213
+OPENING  user_1685.txt 213
+OPENING  user_6708.txt 213
+OPENING  user_1971.txt 213
+OPENING  user_4068.txt 213
+OPENING  user_2524.txt 213
+OPENING  user_2431.txt 213
+OPENING  user_4484.txt 213
+OPENING  user_1371.txt 213
+OPENING  user_1853.txt 213
+OPENING  user_6636.txt 213
+OPENING  user_6826.txt 213
+OPENING  user_4451.txt 213
+OPENING  user_4827.txt 213
+OPENING  user_4813.txt 213
+OPENING  user_2950.txt 213
+OPENING  user_1136.txt 213
+OPENING  user_4822.txt 213
+OPENING  user_2225.txt 213
+OPENING  user_5397.txt 213
+OPENING  user_6606.txt 213
+my rank 576 size 1000
+576 577
+my rank 582 size 1000
+582 583
+OPENING  user_3569.txt 213
+OPENING  user_6371.txt 213
+my rank 597 size 1000
+597 598
+OPENING  user_5171.txt 213
+my rank 594 size 1000
+594 595
+OPENING  user_4934.txt 213
+my rank 598 size 1000
+598 599
+OPENING  user_2447.txt 213
+my rank 590 size 1000
+590 591
+OPENING  user_7320.txt 213
+my rank 591 size 1000
+591 592
+OPENING  user_6776.txt 213
+my rank 581 size 1000
+581 582
+OPENING  user_7289.txt 213
+my rank 596 size 1000
+596 597
+OPENING  user_7370.txt 213
+my rank 599 size 1000
+599 600
+OPENING  user_4131.txt 213
+my rank 589 size 1000
+589 590
+OPENING  user_3332.txt 213
+my rank 592 size 1000
+592 593
+OPENING  user_2321.txt 213
+my rank 595 size 1000
+595 596
+OPENING  user_2792.txt 213
+my rank 579 size 1000
+579 580
+OPENING  user_2536.txt 213
+my rank 577 size 1000
+577 578
+OPENING  user_4151.txt 213
+my rank 578 size 1000
+578 579
+OPENING  user_7014.txt 213
+my rank 585 size 1000
+585 586
+OPENING  user_1814.txt 213
+my rank 586 size 1000
+586 587
+OPENING  user_6828.txt 213
+my rank 584 size 1000
+584 585
+OPENING  user_2930.txt 213
+my rank 583 size 1000
+583 584
+OPENING  user_6424.txt 213
+my rank 587 size 1000
+587 588
+OPENING  user_2443.txt 213
+my rank 580 size 1000
+580 581
+OPENING  user_4013.txt 213
+my rank 593 size 1000
+593 594
+OPENING  user_2479.txt 213
+my rank 588 size 1000
+588 589
+my rank 640 size 1000
+640 641
+my rank 629 size 1000
+629 630
+OPENING  user_7369.txt 213
+OPENING  user_1404.txt 213
+OPENING  user_1880.txt 213
+my rank 646 size 1000
+646 647
+OPENING  user_4775.txt 213
+my rank 632 size 1000
+632 633
+OPENING  user_5577.txt 213
+my rank 644 size 1000
+644 645
+OPENING  user_2164.txt 213
+my rank 631 size 1000
+631 632
+OPENING  user_4724.txt 213
+my rank 625 size 1000
+625 626
+OPENING  user_4143.txt 213
+my rank 633 size 1000
+633 634
+OPENING  user_4286.txt 213
+my rank 647 size 1000
+647 648
+OPENING  user_1946.txt 213
+my rank 628 size 1000
+628 629
+OPENING  user_5598.txt 213
+my rank 635 size 1000
+635 636
+OPENING  user_6802.txt 213
+my rank 708 size 1000
+708 709
+my rank 709 size 1000
+709 710
+my rank 638 size 1000
+638 639
+OPENING  user_1657.txt 213
+OPENING  user_2529.txt 213
+my rank 715 size 1000
+715 716
+OPENING  user_7185.txt 213
+OPENING  user_2030.txt 213
+my rank 641 size 1000
+641 642
+OPENING  user_6374.txt 213
+my rank 626 size 1000
+626 627
+my rank 696 size 1000
+696 697
+OPENING  user_6723.txt 213
+OPENING  user_2253.txt 213
+my rank 642 size 1000
+642 643
+my rank 706 size 1000
+706 707
+OPENING  user_1562.txt 213
+OPENING  user_1652.txt 213
+my rank 643 size 1000
+643 644
+OPENING  user_2852.txt 213
+my rank 718 size 1000
+718 719
+my rank 639 size 1000
+639 640
+OPENING  user_1127.txt 213
+OPENING  user_1203.txt 213
+my rank 714 size 1000
+714 715
+OPENING  user_3184.txt 213
+my rank 712 size 1000
+712 713
+my rank 624 size 1000
+624 625
+OPENING  user_1921.txt 213
+my rank 637 size 1000
+637 638
+OPENING  user_3589.txt 213
+OPENING  user_5961.txt 213
+my rank 701 size 1000
+701 702
+OPENING  user_3814.txt 213
+my rank 634 size 1000
+634 635
+OPENING  user_2146.txt 213
+my rank 645 size 1000
+645 646
+OPENING  user_2961.txt 213
+my rank 700 size 1000
+700 701
+OPENING  user_4846.txt 213
+my rank 630 size 1000
+630 631
+OPENING  user_1428.txt 213
+my rank 627 size 1000
+627 628
+my rank 703 size 1000
+703 704
+my rank 636 size 1000
+636 637
+OPENING  user_1325.txt 213
+OPENING  user_7133.txt 213
+OPENING  user_4622.txt 213
+my rank 705 size 1000
+705 706
+OPENING  user_4138.txt 213
+my rank 704 size 1000
+704 705
+OPENING  user_1928.txt 213
+my rank 699 size 1000
+699 700
+OPENING  user_4078.txt 213
+my rank 698 size 1000
+698 699
+OPENING  user_1870.txt 213
+my rank 707 size 1000
+707 708
+OPENING  user_3768.txt 213
+my rank 697 size 1000
+697 698
+OPENING  user_6880.txt 213
+my rank 710 size 1000
+710 711
+my rank 711 size 1000
+711 712
+OPENING  user_2499.txt 213
+OPENING  user_6271.txt 213
+my rank 713 size 1000
+713 714
+my rank 719 size 1000
+719 720
+OPENING  user_4639.txt 213
+my rank 716 size 1000
+716 717
+OPENING  user_4432.txt 213
+my rank 702 size 1000
+702 703
+OPENING  user_5279.txt 213
+my rank 717 size 1000
+717 718
+OPENING  user_2632.txt 213
+OPENING  user_1796.txt 213
+my rank 136 size 1000
+136 137
+my rank 139 size 1000
+139 140
+my rank 141 size 1000
+141 142
+OPENING  user_2631.txt 213
+OPENING  user_1018.txt 213
+my rank 143 size 1000
+143 144
+OPENING  user_4309.txt 213
+OPENING  user_2543.txt 213
+my rank 133 size 1000
+133 134
+OPENING  user_1558.txt 213
+my rank 129 size 1000
+129 130
+OPENING  user_2281.txt 213
+my rank 122 size 1000
+122 123
+OPENING  user_5663.txt 213
+my rank 130 size 1000
+130 131
+OPENING  user_4488.txt 213
+my rank 131 size 1000
+131 132
+OPENING  user_1279.txt 213
+my rank 123 size 1000
+123 124
+OPENING  user_6819.txt 213
+my rank 121 size 1000
+121 122
+OPENING  user_6180.txt 213
+my rank 134 size 1000
+134 135
+OPENING  user_2157.txt 213
+my rank 135 size 1000
+135 136
+OPENING  user_2938.txt 213
+my rank 125 size 1000
+125 126
+OPENING  user_6035.txt 213
+my rank 128 size 1000
+128 129
+OPENING  user_4890.txt 213
+my rank 124 size 1000
+124 125
+OPENING  user_6909.txt 213
+my rank 126 size 1000
+126 127
+OPENING  user_2556.txt 213
+my rank 140 size 1000
+140 141
+OPENING  user_5898.txt 213
+my rank 142 size 1000
+142 143
+OPENING  user_2286.txt 213
+my rank 132 size 1000
+132 133
+OPENING  user_5193.txt 213
+my rank 120 size 1000
+120 121
+my rank 137 size 1000
+137 138
+OPENING  user_3609.txt 213
+OPENING  user_6031.txt 213
+my rank 138 size 1000
+138 139
+my rank 127 size 1000
+127 128
+OPENING  user_6470.txt 213
+OPENING  user_4824.txt 213
+my rank 729 size 1000
+729 730
+my rank 730 size 1000
+730 731
+my rank 721 size 1000
+721 722
+OPENING  user_6399.txt 213
+OPENING  user_1414.txt 213
+OPENING  user_5422.txt 213
+my rank 723 size 1000
+723 724
+OPENING  user_5964.txt 213
+my rank 735 size 1000
+735 736
+OPENING  user_3460.txt 213
+my rank 737 size 1000
+737 738
+OPENING  user_5356.txt 213
+my rank 740 size 1000
+740 741
+OPENING  user_5446.txt 213
+my rank 722 size 1000
+722 723
+OPENING  user_5384.txt 213
+my rank 731 size 1000
+731 732
+OPENING  user_7228.txt 213
+my rank 732 size 1000
+732 733
+OPENING  user_7243.txt 213
+my rank 743 size 1000
+743 744
+OPENING  user_4266.txt 213
+my rank 741 size 1000
+741 742
+OPENING  user_1510.txt 213
+my rank 734 size 1000
+734 735
+OPENING  user_7195.txt 213
+my rank 739 size 1000
+739 740
+OPENING  user_1684.txt 213
+my rank 727 size 1000
+727 728
+OPENING  user_1630.txt 213
+my rank 724 size 1000
+724 725
+OPENING  user_6495.txt 213
+my rank 720 size 1000
+720 721
+OPENING  user_1839.txt 213
+my rank 726 size 1000
+726 727
+my rank 725 size 1000
+725 726
+OPENING  user_5013.txt 213
+OPENING  user_6034.txt 213
+my rank 738 size 1000
+738 739
+my rank 410 size 1000
+410 411
+my rank 412 size 1000
+412 413
+my rank 414 size 1000
+414 415
+OPENING  user_5753.txt 213
+OPENING  user_1583.txt 213
+OPENING  user_1883.txt 213
+OPENING  user_7382.txt 213
+my rank 742 size 1000
+742 743
+OPENING  user_1813.txt 213
+my rank 728 size 1000
+728 729
+my rank 736 size 1000
+736 737
+OPENING  user_5943.txt 213
+my rank 419 size 1000
+419 420
+OPENING  user_5220.txt 213
+OPENING  user_6568.txt 213
+my rank 733 size 1000
+733 734
+OPENING  user_1049.txt 213
+my rank 418 size 1000
+418 419
+OPENING  user_5192.txt 213
+my rank 369 size 1000
+369 370
+my rank 374 size 1000
+374 375
+my rank 382 size 1000
+382 383
+my rank 361 size 1000
+361 362
+my rank 365 size 1000
+365 366
+my rank 367 size 1000
+367 368
+my rank 409 size 1000
+409 410
+OPENING  user_4431.txt 213
+OPENING  user_7120.txt 213
+OPENING  user_4074.txt 213
+OPENING  user_6286.txt 213
+my rank 381 size 1000
+381 382
+OPENING  user_2283.txt 213
+OPENING  user_7220.txt 213
+OPENING  user_5940.txt 213
+my rank 73 size 1000
+73 74
+my rank 74 size 1000
+74 75
+my rank 75 size 1000
+75 76
+my rank 76 size 1000
+76 77
+my rank 81 size 1000
+81 82
+OPENING  user_1232.txt 213
+my rank 424 size 1000
+424 425
+OPENING  user_6250.txt 213
+OPENING  user_5452.txt 213
+OPENING  user_4963.txt 213
+OPENING  user_2742.txt 213
+OPENING  user_3375.txt 213
+OPENING  user_6814.txt 213
+my rank 427 size 1000
+427 428
+my rank 373 size 1000
+373 374
+my rank 78 size 1000
+78 79
+OPENING  user_3410.txt 213
+OPENING  user_1785.txt 213
+my rank 379 size 1000
+379 380
+OPENING  user_6022.txt 213
+my rank 423 size 1000
+423 424
+my rank 95 size 1000
+95 96
+OPENING  user_3995.txt 213
+OPENING  user_3509.txt 213
+my rank 430 size 1000
+430 431
+my rank 378 size 1000
+378 379
+my rank 85 size 1000
+85 86
+OPENING  user_1609.txt 213
+OPENING  user_3420.txt 213
+OPENING  user_2674.txt 213
+OPENING  user_1764.txt 213
+my rank 431 size 1000
+431 432
+my rank 86 size 1000
+86 87
+my rank 371 size 1000
+371 372
+OPENING  user_2498.txt 213
+my rank 421 size 1000
+421 422
+OPENING  user_1984.txt 213
+my rank 88 size 1000
+88 89
+OPENING  user_1841.txt 213
+OPENING  user_2683.txt 213
+my rank 383 size 1000
+383 384
+OPENING  user_6326.txt 213
+my rank 426 size 1000
+426 427
+my rank 87 size 1000
+87 88
+OPENING  user_2609.txt 213
+OPENING  user_3718.txt 213
+my rank 428 size 1000
+428 429
+OPENING  user_5545.txt 213
+my rank 91 size 1000
+91 92
+my rank 360 size 1000
+360 361
+OPENING  user_4498.txt 213
+my rank 363 size 1000
+363 364
+OPENING  user_3572.txt 213
+OPENING  user_1485.txt 213
+my rank 84 size 1000
+84 85
+my rank 408 size 1000
+408 409
+my rank 375 size 1000
+375 376
+OPENING  user_7353.txt 213
+OPENING  user_1367.txt 213
+my rank 89 size 1000
+89 90
+OPENING  user_4948.txt 213
+my rank 415 size 1000
+415 416
+OPENING  user_6859.txt 213
+my rank 377 size 1000
+377 378
+OPENING  user_5297.txt 213
+OPENING  user_2304.txt 213
+my rank 411 size 1000
+411 412
+my rank 93 size 1000
+93 94
+OPENING  user_4802.txt 213
+OPENING  user_1274.txt 213
+my rank 429 size 1000
+429 430
+OPENING  user_7286.txt 213
+OPENING  user_2699.txt 213
+my rank 370 size 1000
+370 371
+my rank 422 size 1000
+422 423
+my rank 72 size 1000
+72 73
+OPENING  user_1878.txt 213
+OPENING  user_2465.txt 213
+my rank 380 size 1000
+380 381
+OPENING  user_5801.txt 213
+my rank 80 size 1000
+80 81
+my rank 364 size 1000
+364 365
+my rank 413 size 1000
+413 414
+OPENING  user_5141.txt 213
+my rank 416 size 1000
+416 417
+OPENING  user_3009.txt 213
+OPENING  user_2903.txt 213
+my rank 366 size 1000
+366 367
+OPENING  user_3806.txt 213
+my rank 83 size 1000
+83 84
+OPENING  user_1329.txt 213
+my rank 420 size 1000
+420 421
+my rank 376 size 1000
+376 377
+OPENING  user_3551.txt 213
+my rank 425 size 1000
+425 426
+OPENING  user_1026.txt 213
+OPENING  user_4699.txt 213
+my rank 362 size 1000
+362 363
+OPENING  user_2263.txt 213
+my rank 417 size 1000
+417 418
+OPENING  user_2278.txt 213
+OPENING  user_6893.txt 213
+my rank 94 size 1000
+94 95
+my rank 372 size 1000
+372 373
+my rank 368 size 1000
+368 369
+OPENING  user_3764.txt 213
+my rank 82 size 1000
+82 83
+my rank 77 size 1000
+77 78
+OPENING  user_6039.txt 213
+OPENING  user_6954.txt 213
+OPENING  user_5969.txt 213
+OPENING  user_6188.txt 213
+my rank 79 size 1000
+79 80
+OPENING  user_5011.txt 213
+my rank 90 size 1000
+90 91
+OPENING  user_1230.txt 213
+my rank 92 size 1000
+92 93
+OPENING  user_7248.txt 213
+OPENING  user_5383.txt 213
+my rank 192 size 1000
+192 193
+my rank 203 size 1000
+203 204
+my rank 204 size 1000
+204 205
+my rank 210 size 1000
+210 211
+my rank 212 size 1000
+212 213
+my rank 215 size 1000
+215 216
+OPENING  user_1715.txt 213
+OPENING  user_6871.txt 213
+OPENING  user_3182.txt 213
+OPENING  user_2844.txt 213
+OPENING  user_6377.txt 213
+OPENING  user_3904.txt 213
+my rank 198 size 1000
+198 199
+OPENING  user_2419.txt 213
+my rank 205 size 1000
+205 206
+OPENING  user_5524.txt 213
+my rank 200 size 1000
+200 201
+OPENING  user_4243.txt 213
+my rank 197 size 1000
+197 198
+OPENING  user_2519.txt 213
+my rank 206 size 1000
+206 207
+OPENING  user_7061.txt 213
+my rank 209 size 1000
+209 210
+my rank 211 size 1000
+211 212
+OPENING  user_6602.txt 213
+my rank 620 size 1000
+620 621
+my rank 623 size 1000
+623 624
+my rank 601 size 1000
+601 602
+my rank 603 size 1000
+603 604
+my rank 605 size 1000
+605 606
+my rank 612 size 1000
+612 613
+my rank 613 size 1000
+613 614
+my rank 614 size 1000
+614 615
+OPENING  user_5253.txt 213
+my rank 615 size 1000
+615 616
+my rank 213 size 1000
+213 214
+OPENING  user_2902.txt 213
+OPENING  user_4428.txt 213
+OPENING  user_2396.txt 213
+OPENING  user_2976.txt 213
+OPENING  user_1722.txt 213
+OPENING  user_2349.txt 213
+OPENING  user_4055.txt 213
+OPENING  user_6806.txt 213
+OPENING  user_6981.txt 213
+OPENING  user_4223.txt 213
+my rank 604 size 1000
+604 605
+my rank 194 size 1000
+194 195
+my rank 402 size 1000
+402 403
+my rank 403 size 1000
+403 404
+my rank 385 size 1000
+385 386
+my rank 386 size 1000
+386 387
+my rank 388 size 1000
+388 389
+my rank 390 size 1000
+390 391
+my rank 396 size 1000
+396 397
+my rank 398 size 1000
+398 399
+OPENING  user_3494.txt 213
+OPENING  user_6670.txt 213
+my rank 199 size 1000
+199 200
+my rank 397 size 1000
+397 398
+OPENING  user_7017.txt 213
+OPENING  user_1546.txt 213
+OPENING  user_1309.txt 213
+OPENING  user_4984.txt 213
+OPENING  user_6549.txt 213
+OPENING  user_7282.txt 213
+OPENING  user_4746.txt 213
+OPENING  user_3876.txt 213
+my rank 600 size 1000
+600 601
+my rank 392 size 1000
+392 393
+OPENING  user_4017.txt 213
+my rank 201 size 1000
+201 202
+OPENING  user_6682.txt 213
+OPENING  user_6715.txt 213
+my rank 606 size 1000
+606 607
+OPENING  user_4253.txt 213
+my rank 196 size 1000
+196 197
+my rank 195 size 1000
+195 196
+my rank 406 size 1000
+406 407
+OPENING  user_3790.txt 213
+OPENING  user_5574.txt 213
+OPENING  user_5355.txt 213
+my rank 611 size 1000
+611 612
+OPENING  user_7264.txt 213
+my rank 202 size 1000
+202 203
+my rank 207 size 1000
+207 208
+OPENING  user_1766.txt 213
+my rank 404 size 1000
+404 405
+my rank 619 size 1000
+619 620
+OPENING  user_6077.txt 213
+my rank 214 size 1000
+214 215
+OPENING  user_4186.txt 213
+OPENING  user_1490.txt 213
+my rank 193 size 1000
+193 194
+my rank 145 size 1000
+145 146
+my rank 151 size 1000
+151 152
+my rank 155 size 1000
+155 156
+my rank 157 size 1000
+157 158
+my rank 159 size 1000
+159 160
+my rank 401 size 1000
+401 402
+OPENING  user_5955.txt 213
+OPENING  user_3401.txt 213
+my rank 208 size 1000
+208 209
+my rank 152 size 1000
+152 153
+OPENING  user_5946.txt 213
+my rank 610 size 1000
+610 611
+OPENING  user_3435.txt 213
+OPENING  user_6047.txt 213
+OPENING  user_4470.txt 213
+OPENING  user_2887.txt 213
+OPENING  user_1411.txt 213
+OPENING  user_1333.txt 213
+OPENING  user_7082.txt 213
+my rank 407 size 1000
+407 408
+OPENING  user_4717.txt 213
+my rank 616 size 1000
+616 617
+OPENING  user_5727.txt 213
+OPENING  user_4235.txt 213
+OPENING  user_2588.txt 213
+my rank 391 size 1000
+391 392
+my rank 602 size 1000
+602 603
+OPENING  user_7262.txt 213
+my rank 156 size 1000
+156 157
+OPENING  user_6674.txt 213
+OPENING  user_1475.txt 213
+OPENING  user_3812.txt 213
+my rank 147 size 1000
+147 148
+my rank 393 size 1000
+393 394
+my rank 618 size 1000
+618 619
+OPENING  user_5065.txt 213
+OPENING  user_5467.txt 213
+my rank 163 size 1000
+163 164
+OPENING  user_5584.txt 213
+my rank 405 size 1000
+405 406
+OPENING  user_6398.txt 213
+my rank 609 size 1000
+609 610
+my rank 153 size 1000
+153 154
+OPENING  user_2626.txt 213
+OPENING  user_2864.txt 213
+OPENING  user_3029.txt 213
+my rank 149 size 1000
+149 150
+my rank 622 size 1000
+622 623
+my rank 384 size 1000
+384 385
+my rank 617 size 1000
+617 618
+OPENING  user_7109.txt 213
+OPENING  user_5368.txt 213
+OPENING  user_3547.txt 213
+OPENING  user_2778.txt 213
+my rank 387 size 1000
+387 388
+my rank 607 size 1000
+607 608
+OPENING  user_4393.txt 213
+my rank 621 size 1000
+621 622
+OPENING  user_5261.txt 213
+my rank 144 size 1000
+144 145
+my rank 608 size 1000
+608 609
+my rank 394 size 1000
+394 395
+OPENING  user_6053.txt 213
+OPENING  user_3186.txt 213
+OPENING  user_1593.txt 213
+my rank 158 size 1000
+158 159
+OPENING  user_3664.txt 213
+my rank 399 size 1000
+399 400
+OPENING  user_1041.txt 213
+my rank 389 size 1000
+389 390
+OPENING  user_4785.txt 213
+OPENING  user_5021.txt 213
+my rank 395 size 1000
+395 396
+OPENING  user_1141.txt 213
+my rank 164 size 1000
+164 165
+my rank 400 size 1000
+400 401
+OPENING  user_1250.txt 213
+my rank 148 size 1000
+148 149
+OPENING  user_6853.txt 213
+OPENING  user_6273.txt 213
+my rank 167 size 1000
+167 168
+OPENING  user_6815.txt 213
+my rank 160 size 1000
+160 161
+my rank 154 size 1000
+154 155
+OPENING  user_5956.txt 213
+my rank 166 size 1000
+166 167
+OPENING  user_6793.txt 213
+my rank 165 size 1000
+165 166
+OPENING  user_7304.txt 213
+my rank 161 size 1000
+161 162
+OPENING  user_6352.txt 213
+OPENING  user_3406.txt 213
+my rank 162 size 1000
+162 163
+OPENING  user_3272.txt 213
+my rank 146 size 1000
+146 147
+my rank 150 size 1000
+150 151
+OPENING  user_5039.txt 213
+OPENING  user_5460.txt 213
+my rank 814 size 1000
+814 815
+my rank 792 size 1000
+792 793
+my rank 794 size 1000
+794 795
+my rank 795 size 1000
+795 796
+my rank 796 size 1000
+796 797
+my rank 797 size 1000
+797 798
+my rank 798 size 1000
+798 799
+my rank 799 size 1000
+799 800
+my rank 800 size 1000
+800 801
+my rank 801 size 1000
+801 802
+my rank 806 size 1000
+806 807
+my rank 807 size 1000
+807 808
+my rank 808 size 1000
+808 809
+my rank 810 size 1000
+810 811
+my rank 812 size 1000
+812 813
+my rank 809 size 1000
+809 810
+OPENING  user_4329.txt 213
+OPENING  user_1965.txt 213
+OPENING  user_3145.txt 213
+OPENING  user_3352.txt 213
+OPENING  user_2237.txt 213
+OPENING  user_1647.txt 213
+OPENING  user_3011.txt 213
+OPENING  user_4628.txt 213
+OPENING  user_5616.txt 213
+OPENING  user_3660.txt 213
+my rank 813 size 1000
+813 814
+OPENING  user_6413.txt 213
+OPENING  user_7384.txt 213
+OPENING  user_4621.txt 213
+OPENING  user_1110.txt 213
+OPENING  user_4869.txt 213
+OPENING  user_3992.txt 213
+my rank 805 size 1000
+805 806
+my rank 815 size 1000
+815 816
+OPENING  user_5582.txt 213
+OPENING  user_6633.txt 213
+my rank 793 size 1000
+793 794
+my rank 803 size 1000
+803 804
+my rank 811 size 1000
+811 812
+OPENING  user_1577.txt 213
+my rank 804 size 1000
+804 805
+my rank 802 size 1000
+802 803
+OPENING  user_5533.txt 213
+OPENING  user_5621.txt 213
+OPENING  user_1472.txt 213
+OPENING  user_2350.txt 213
+OPENING  user_1039.txt 213
+my rank 477 size 1000
+477 478
+my rank 479 size 1000
+479 480
+my rank 456 size 1000
+456 457
+my rank 461 size 1000
+461 462
+my rank 463 size 1000
+463 464
+my rank 466 size 1000
+466 467
+my rank 467 size 1000
+467 468
+my rank 469 size 1000
+469 470
+my rank 470 size 1000
+470 471
+my rank 471 size 1000
+471 472
+my rank 472 size 1000
+472 473
+my rank 473 size 1000
+473 474
+my rank 474 size 1000
+474 475
+my rank 475 size 1000
+475 476
+my rank 476 size 1000
+476 477
+my rank 478 size 1000
+478 479
+OPENING  user_3810.txt 213
+OPENING  user_3161.txt 213
+OPENING  user_7176.txt 213
+OPENING  user_1126.txt 213
+OPENING  user_4854.txt 213
+OPENING  user_2845.txt 213
+OPENING  user_1726.txt 213
+my rank 457 size 1000
+457 458
+OPENING  user_2003.txt 213
+OPENING  user_3207.txt 213
+OPENING  user_2972.txt 213
+OPENING  user_3438.txt 213
+my rank 458 size 1000
+458 459
+OPENING  user_2022.txt 213
+OPENING  user_5738.txt 213
+OPENING  user_1860.txt 213
+OPENING  user_2079.txt 213
+OPENING  user_5462.txt 213
+OPENING  user_4650.txt 213
+my rank 465 size 1000
+465 466
+OPENING  user_4646.txt 213
+my rank 460 size 1000
+460 461
+my rank 462 size 1000
+462 463
+OPENING  user_4132.txt 213
+my rank 464 size 1000
+464 465
+my rank 468 size 1000
+468 469
+my rank 459 size 1000
+459 460
+OPENING  user_1528.txt 213
+OPENING  user_5864.txt 213
+OPENING  user_2733.txt 213
+OPENING  user_4200.txt 213
+OPENING  user_7312.txt 213
+my rank 24 size 1000
+24 25
+my rank 27 size 1000
+27 28
+my rank 29 size 1000
+29 30
+my rank 34 size 1000
+34 35
+my rank 37 size 1000
+37 38
+my rank 38 size 1000
+38 39
+my rank 39 size 1000
+39 40
+my rank 41 size 1000
+41 42
+my rank 42 size 1000
+42 43
+my rank 43 size 1000
+43 44
+my rank 44 size 1000
+44 45
+my rank 45 size 1000
+45 46
+my rank 46 size 1000
+46 47
+my rank 47 size 1000
+47 48
+my rank 40 size 1000
+40 41
+my rank 25 size 1000
+25 26
+OPENING  user_5030.txt 213
+OPENING  user_7055.txt 213
+OPENING  user_4022.txt 213
+OPENING  user_3471.txt 213
+OPENING  user_2781.txt 213
+OPENING  user_7391.txt 213
+OPENING  user_3310.txt 213
+OPENING  user_6643.txt 213
+OPENING  user_6062.txt 213
+OPENING  user_6076.txt 213
+OPENING  user_5375.txt 213
+OPENING  user_5876.txt 213
+OPENING  user_6555.txt 213
+OPENING  user_1989.txt 213
+OPENING  user_1480.txt 213
+my rank 36 size 1000
+36 37
+my rank 30 size 1000
+30 31
+OPENING  user_2043.txt 213
+OPENING  user_3674.txt 213
+my rank 33 size 1000
+33 34
+OPENING  user_2779.txt 213
+my rank 28 size 1000
+28 29
+my rank 31 size 1000
+31 32
+OPENING  user_3645.txt 213
+my rank 26 size 1000
+26 27
+OPENING  user_7416.txt 213
+my rank 32 size 1000
+32 33
+my rank 35 size 1000
+35 36
+OPENING  user_3656.txt 213
+OPENING  user_7199.txt 213
+OPENING  user_6763.txt 213
+OPENING  user_6719.txt 213
+my rank 552 size 1000
+552 553
+my rank 553 size 1000
+553 554
+my rank 554 size 1000
+554 555
+my rank 557 size 1000
+557 558
+my rank 558 size 1000
+558 559
+my rank 559 size 1000
+559 560
+my rank 563 size 1000
+563 564
+my rank 565 size 1000
+565 566
+my rank 566 size 1000
+566 567
+my rank 569 size 1000
+569 570
+my rank 570 size 1000
+570 571
+my rank 571 size 1000
+571 572
+my rank 572 size 1000
+572 573
+my rank 555 size 1000
+555 556
+OPENING  user_3788.txt 213
+OPENING  user_6539.txt 213
+my rank 573 size 1000
+573 574
+OPENING  user_3170.txt 213
+OPENING  user_3092.txt 213
+OPENING  user_2734.txt 213
+OPENING  user_4182.txt 213
+OPENING  user_4829.txt 213
+OPENING  user_1252.txt 213
+OPENING  user_2539.txt 213
+OPENING  user_5321.txt 213
+OPENING  user_5256.txt 213
+OPENING  user_6846.txt 213
+OPENING  user_1908.txt 213
+OPENING  user_3144.txt 213
+my rank 574 size 1000
+574 575
+OPENING  user_3110.txt 213
+my rank 562 size 1000
+562 563
+my rank 567 size 1000
+567 568
+my rank 560 size 1000
+560 561
+OPENING  user_6403.txt 213
+my rank 556 size 1000
+556 557
+my rank 575 size 1000
+575 576
+OPENING  user_5878.txt 213
+my rank 568 size 1000
+568 569
+my rank 561 size 1000
+561 562
+OPENING  user_3197.txt 213
+my rank 564 size 1000
+564 565
+OPENING  user_2363.txt 213
+OPENING  user_2439.txt 213
+OPENING  user_2862.txt 213
+OPENING  user_3969.txt 213
+OPENING  user_3072.txt 213
+OPENING  user_7233.txt 213
+my rank 848 size 1000
+848 849
+my rank 852 size 1000
+852 853
+OPENING  user_1710.txt 213
+OPENING  user_4577.txt 213
+my rank 860 size 1000
+860 861
+OPENING  user_5712.txt 213
+my rank 846 size 1000
+846 847
+OPENING  user_2455.txt 213
+my rank 840 size 1000
+840 841
+OPENING  user_2842.txt 213
+my rank 859 size 1000
+859 860
+OPENING  user_1412.txt 213
+my rank 842 size 1000
+842 843
+OPENING  user_2590.txt 213
+my rank 863 size 1000
+863 864
+OPENING  user_3641.txt 213
+my rank 843 size 1000
+843 844
+OPENING  user_2682.txt 213
+my rank 856 size 1000
+856 857
+OPENING  user_6407.txt 213
+my rank 847 size 1000
+847 848
+OPENING  user_6278.txt 213
+my rank 849 size 1000
+849 850
+OPENING  user_5032.txt 213
+my rank 845 size 1000
+845 846
+OPENING  user_3499.txt 213
+my rank 854 size 1000
+854 855
+OPENING  user_5747.txt 213
+my rank 862 size 1000
+862 863
+OPENING  user_3595.txt 213
+my rank 841 size 1000
+841 842
+OPENING  user_7345.txt 213
+my rank 858 size 1000
+858 859
+OPENING  user_1096.txt 213
+my rank 855 size 1000
+855 856
+OPENING  user_5266.txt 213
+my rank 850 size 1000
+850 851
+OPENING  user_2376.txt 213
+my rank 851 size 1000
+851 852
+my rank 853 size 1000
+853 854
+OPENING  user_4018.txt 213
+OPENING  user_4944.txt 213
+my rank 857 size 1000
+857 858
+OPENING  user_6130.txt 213
+my rank 844 size 1000
+844 845
+my rank 861 size 1000
+861 862
+OPENING  user_3136.txt 213
+OPENING  user_4502.txt 213
+my rank 882 size 1000
+882 883
+my rank 885 size 1000
+885 886
+my rank 865 size 1000
+865 866
+my rank 866 size 1000
+866 867
+my rank 887 size 1000
+887 888
+OPENING  user_4455.txt 213
+OPENING  user_5830.txt 213
+OPENING  user_7182.txt 213
+OPENING  user_2259.txt 213
+OPENING  user_3708.txt 213
+my rank 880 size 1000
+880 881
+OPENING  user_1976.txt 213
+my rank 869 size 1000
+869 870
+OPENING  user_4363.txt 213
+my rank 876 size 1000
+876 877
+OPENING  user_5931.txt 213
+my rank 874 size 1000
+874 875
+OPENING  user_5903.txt 213
+my rank 878 size 1000
+878 879
+OPENING  user_4796.txt 213
+my rank 879 size 1000
+879 880
+OPENING  user_2559.txt 213
+my rank 883 size 1000
+883 884
+OPENING  user_1819.txt 213
+my rank 872 size 1000
+872 873
+OPENING  user_4173.txt 213
+my rank 875 size 1000
+875 876
+OPENING  user_5873.txt 213
+my rank 886 size 1000
+886 887
+OPENING  user_2981.txt 213
+my rank 864 size 1000
+864 865
+OPENING  user_3380.txt 213
+my rank 884 size 1000
+884 885
+OPENING  user_3918.txt 213
+my rank 868 size 1000
+868 869
+OPENING  user_1832.txt 213
+my rank 870 size 1000
+870 871
+OPENING  user_5729.txt 213
+my rank 867 size 1000
+867 868
+OPENING  user_1882.txt 213
+my rank 871 size 1000
+871 872
+OPENING  user_2338.txt 213
+my rank 873 size 1000
+873 874
+OPENING  user_6195.txt 213
+my rank 881 size 1000
+881 882
+my rank 877 size 1000
+877 878
+OPENING  user_4696.txt 213
+OPENING  user_6988.txt 213
+my rank 912 size 1000
+912 913
+my rank 913 size 1000
+913 914
+my rank 914 size 1000
+914 915
+my rank 923 size 1000
+923 924
+my rank 932 size 1000
+932 933
+OPENING  user_1555.txt 213
+OPENING  user_2817.txt 213
+OPENING  user_4110.txt 213
+OPENING  user_1638.txt 213
+OPENING  user_1843.txt 213
+my rank 917 size 1000
+917 918
+OPENING  user_4995.txt 213
+my rank 922 size 1000
+922 923
+OPENING  user_2605.txt 213
+my rank 934 size 1000
+934 935
+OPENING  user_3655.txt 213
+my rank 926 size 1000
+926 927
+OPENING  user_5343.txt 213
+my rank 925 size 1000
+925 926
+my rank 931 size 1000
+931 932
+OPENING  user_7112.txt 213
+OPENING  user_7429.txt 213
+my rank 929 size 1000
+929 930
+OPENING  user_3820.txt 213
+my rank 935 size 1000
+935 936
+OPENING  user_5157.txt 213
+my rank 918 size 1000
+918 919
+OPENING  user_3732.txt 213
+my rank 921 size 1000
+921 922
+OPENING  user_7307.txt 213
+my rank 915 size 1000
+915 916
+OPENING  user_5804.txt 213
+my rank 933 size 1000
+933 934
+my rank 928 size 1000
+928 929
+OPENING  user_7115.txt 213
+my rank 919 size 1000
+919 920
+OPENING  user_2106.txt 213
+my rank 930 size 1000
+930 931
+my rank 924 size 1000
+924 925
+OPENING  user_6052.txt 213
+OPENING  user_6193.txt 213
+my rank 920 size 1000
+920 921
+OPENING  user_5301.txt 213
+my rank 916 size 1000
+916 917
+my rank 927 size 1000
+927 928
+OPENING  user_3137.txt 213
+OPENING  user_1321.txt 213
+OPENING  user_1381.txt 213
+my rank 947 size 1000
+947 948
+my rank 955 size 1000
+955 956
+my rank 942 size 1000
+942 943
+my rank 936 size 1000
+936 937
+my rank 940 size 1000
+940 941
+my rank 951 size 1000
+951 952
+my rank 952 size 1000
+952 953
+my rank 956 size 1000
+956 957
+my rank 937 size 1000
+937 938
+my rank 938 size 1000
+938 939
+my rank 939 size 1000
+939 940
+my rank 945 size 1000
+945 946
+my rank 949 size 1000
+949 950
+my rank 950 size 1000
+950 951
+OPENING  user_6740.txt 213
+my rank 953 size 1000
+953 954
+OPENING  user_1576.txt 213
+OPENING  user_2854.txt 213
+my rank 948 size 1000
+948 949
+my rank 958 size 1000
+958 959
+OPENING  user_6494.txt 213
+OPENING  user_1585.txt 213
+OPENING  user_6044.txt 213
+OPENING  user_4048.txt 213
+OPENING  user_2794.txt 213
+OPENING  user_2707.txt 213
+OPENING  user_2508.txt 213
+OPENING  user_1375.txt 213
+OPENING  user_7333.txt 213
+my rank 941 size 1000
+941 942
+my rank 944 size 1000
+944 945
+my rank 954 size 1000
+954 955
+my rank 957 size 1000
+957 958
+my rank 959 size 1000
+959 960
+OPENING  user_3021.txt 213
+OPENING  user_2700.txt 213
+my rank 946 size 1000
+946 947
+OPENING  user_5679.txt 213
+OPENING  user_1372.txt 213
+OPENING  user_1788.txt 213
+OPENING  user_7030.txt 213
+OPENING  user_6663.txt 213
+my rank 943 size 1000
+943 944
+OPENING  user_2990.txt 213
+OPENING  user_4389.txt 213
+OPENING  user_6257.txt 213
+OPENING  user_6618.txt 213
+OPENING  user_3091.txt 213
