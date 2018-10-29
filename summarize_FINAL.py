@@ -111,10 +111,8 @@ def process_file(data_path,filename):
 		#exit()
 
 # set directory and input *.csv file names
-#Dir="/home/leo/Documents/forPrima2015/";
 path_out="./"
 out_name="learning_result.csv"
-#Dir='/mnt/VrtualShared/WinShared/VirtShared/users/Lalith_ERI/Students/2014/Leo/ICEM2015_Taiwan/FullPaper/Figure/DataFromStphen/'
 
 data_path = '../raw/'
 data_path_out = '../output/'
